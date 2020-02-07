@@ -4,4 +4,12 @@
     <pattern>What is your name?</pattern>
     <template>chatbot</template>
   </category>
+<category>
+    <pattern>Where are you from</pattern>
+    <template>nepalð</template>
+</category>
+<category>
+    <pattern>Who is sudish basnet</pattern>
+    <template>my creator</template>
+</category>
 </aiml>
